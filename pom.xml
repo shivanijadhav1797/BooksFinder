@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.books</groupId>
     <artifactId>BooksFinder</artifactId>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
     <name>BooksFinder</name>
     <version>1.0.0</version>
     <properties>
