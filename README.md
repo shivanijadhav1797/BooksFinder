@@ -12,9 +12,9 @@ The underlying library integrating swagger to SpringBoot is [springfox](https://
 Start your server as an simple java application  
 
 You can view the api documentation in swagger-ui by pointing to  
-http://localhost:8080/  
+http://localhost:8084/  
 
-Change default port value in application.properties
+You can change port value in application.properties
 
 ## Description
 BooksFinder search different books based on various filters. It internally makes a Google Books API call to fetch the data. 
